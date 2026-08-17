@@ -1,0 +1,9 @@
+ellipsis:
+  version: v1
+  name: 创意写作助手
+  description: 用于创意写作的agent
+
+claude:
+  model: claude-fable-5
+  system: |
+    用于创意写作
