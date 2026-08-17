@@ -7,3 +7,6 @@ claude:
   model: claude-fable-5
   system: |
     用于创意写作
+
+budget:
+  session: 10.00
